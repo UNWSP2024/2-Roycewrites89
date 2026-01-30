@@ -4,4 +4,5 @@ Emiru=32
 Dobbs=18
 William=40
 Fergus=43
-print(Makiel + Emiru + Dobbs + William + Fergus /5)
+Challenges=5
+print(Makiel + Emiru + Dobbs + William + Fergus /Challenges)
